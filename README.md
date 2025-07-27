@@ -7,7 +7,7 @@ Lebih dari 80% ulasan bersifat positif, namun jumlah komentar negatif tercatat h
 Oleh karena itu, data ini dianalisis sebagai bahan evaluasi bisnis untuk mengidentifikasi peluang peningkatan kualitas produk maupun perbaikan berdasarkan pengalaman buruk pelanggan.
 
 ## Struktur Data dan Pemeriksaan Awal
-Dataset diperoleh dari [Women's E-Commerce Clothing Reviews]([https://archive.ics.uci.edu/dataset/864/room+occupancy+estimation](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews)) yang terdiri atas 23.486 baris dan 11 kolom, yang secara umum memuat informasi seperti:
+Dataset diperoleh dari [Kaggle: Women's E-Commerce Clothing Reviews](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews) yang terdiri atas 23.486 baris dan 11 kolom, yang secara umum memuat informasi seperti:
 - Identitas pengulas
 - Rating
 - Detail produk pakaian yang dibeli

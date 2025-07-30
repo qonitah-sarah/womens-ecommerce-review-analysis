@@ -19,7 +19,8 @@ Kolom `Recommended IND` bertipe integer, dengan nilai 1 menandakan produk direko
 ##  Metode
 Langkah-langkah yang dilakukan dalam proyek ini meliputi:
 ### 1. Data Cleaning
-- Tidak ditemukan nilai duplikat maupun missing value.
+- Tidak ditemukan nilai duplikat.
+- Terdapat missing value (NaN) di beberapa kolom, namun tidak menjadi masalah karena analisis hanya fokus pada customer yang memberi review. Tidak ditemukan missing value dengan nilai tidak sesuai.
 - Terdapat nilai outlier di seluruh kolom numerik kecuali pada `Unnamed: 0`. Outlier tidak ditangani secara khusus karena merupakan nilai yang wajar sehingga seluruh nilai tetap digunakan dalam analisis untuk menjaga integritas hasil.
 
 ### 2. Exploratory Data Analysis (EDA) & Feature Engineering
